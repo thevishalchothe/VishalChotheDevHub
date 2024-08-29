@@ -14,7 +14,7 @@ I am an enthusiastic contributor to open source projects and enjoy working with 
 
 ## 📚 Professional Growth
 
-Committed to continuous learning and development, I stay abreast of the latest industry trends and technologies. Currently focusing on expanding my knowledge in [microservices architecture](https://example.com) and other advanced areas.
+Committed to continuous learning and development, I stay abreast of the latest industry trends and technologies. Currently focusing on expanding my knowledge in microservices architecture and other advanced areas.
 
 ---
 
