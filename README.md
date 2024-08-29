@@ -18,7 +18,7 @@ Committed to continuous learning and development, I stay abreast of the latest i
 
 ---
 
-Connect with me or explore my projects:
+Connect with me or explore :
 
 - **LinkedIn:** [Connect with Vishal Chothe](https://www.linkedin.com/in/contact-the-vishal-chothe)
 - **Email:** vishalchothe134@gmail.com
